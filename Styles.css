@@ -323,6 +323,11 @@
     
 }
 
+.career-image img{
+    max-width: 70vh;
+}
+
+
 .career-button{
     border-radius: 3rem;
     background: #FFF;
